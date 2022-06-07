@@ -1,0 +1,15 @@
+body{
+    cursor :url(normal-select-teal1.cur),auto;
+}
+a{
+    cursor: url(link-select1.cur),auto;
+}
+button{
+    cursor: url(link-select1.cur),auto;
+}
+input[type = 'button']{
+    cursor: url(link-select1.cur),auto;
+}
+p{
+    cursor: url(txt-selection-teal1.cur),auto;
+}
